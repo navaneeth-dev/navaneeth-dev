@@ -10,7 +10,8 @@
 
 ## Website
 
-[https://rizexor.com](https://rizexor.com)
+1. [https://rizexor.com](https://rizexor.com)
+2. [https://rizexor.vercel.app - ALTERNATIVE](https://rizexor.vercel.app)
 
 ## Stats
 
