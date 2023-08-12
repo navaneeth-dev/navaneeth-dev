@@ -15,7 +15,7 @@
 
 ## Stats
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=navaneeth-dev&theme=nightowl&hide_border=true&background=22272E&sideLabels=9BE9A8&sideNums=9BE9A8&dates=9BE9A8&ring=40C463&stroke=22272E&fire=40C463&currStreakNum=40C463&currStreakLabel=40C463&count_private=true">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=navaneeth-dev&theme=dark&hide_border=true&border_radius=8&type=png)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
