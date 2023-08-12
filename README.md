@@ -15,7 +15,7 @@
 
 ## Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=navaneeth-dev&theme=dark&hide_border=true&border_radius=8&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=navaneeth-dev&theme=dark)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
