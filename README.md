@@ -1,17 +1,15 @@
 # Hi 👋, I'm Navaneeth Rao
-> Full Stack Developer / Android Reverse Engineer
+> I am a 20y/o Undergrad Student focusing on Maldev
+
+[Website↗️](https://rizexor.com)
 
 ## Blog Posts ✏️
 
+- [Cloudsek CTF 2023](https://rizexor.com/blog/cloudsek-ctf-2023)
 - [Android Malware/Reversing Resources](https://rizexor.com/blog/android-resources)
 - [Cyber Security Blogs You Should Follow](https://rizexor.com/blog/cyber-security-blogs-you-should-follow)
 
 [More Posts... ↗️](https://rizexor.com/blog)
-
-## Website
-
-1. [https://rizexor.com](https://rizexor.com)
-2. [https://rizexor.vercel.app - ALTERNATIVE](https://rizexor.vercel.app)
 
 ## Stats
 
