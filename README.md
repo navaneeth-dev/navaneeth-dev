@@ -1,5 +1,5 @@
 # Hi 👋, I'm Navaneeth Rao
-> I am a 20y/o Undergrad Student focusing on Maldev
+> I am a 20y/o Undergrad Student
 
 [Website↗️](https://rizexor.com)
 
