@@ -1,6 +1,6 @@
 # Hi 👋, I'm Navaneeth
 
-I am a final year Computer Science undergrad student with more than 5 years of experience across Full Stack development, Cyber Security and DevOps.
+DevOps Engineer with strong Kubernetes, cloud, GitOps, and production infrastructure experience, maintaining 99% uptime. I am an open source contributor and have hacked companies like Chennai Metro, UTS, NIOS, etc.
 
 [Contact Me](https://rizexor.com/contact)
 
